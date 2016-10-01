@@ -11,6 +11,7 @@ permalink: /dev-env/
 | -------------- | ---------------------------------------- |
 | GitHub Project | [https://github.com/HSR-Semester-Arbeit2016](https://github.com/HSR-Semester-Arbeit2016) |
 | GitHub Web     | [https://github.com/HSR-Semester-Arbeit2016/hsr-semester-arbeit2016.github.io](https://github.com/HSR-Semester-Arbeit2016/hsr-semester-arbeit2016.github.io) |
+| Documentation  | [https://github.com/HSR-Semester-Arbeit2016/hsr-semester-arbeit-doc](https://github.com/HSR-Semester-Arbeit2016/hsr-semester-arbeit-doc) |
 
 
 **[Code Repositories]():**
