@@ -1,7 +1,7 @@
 # Site settings
-title: HSR - Semester Arbeit 2016 Log
-email: 
-description: Log für unsere Semster Arbeit an der HSR
+title: Simulating substance-influence in an AR/VR Cardboard-App
+description: Student Research Project Thesis - HSR 2016
+authors: Roberto Cuervo, Konrad Höpli
 baseurl: ""
 url: "http://hsr-semester-arbeit2016.github.io"
 twitter_username: 

@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
   <h1 class="page-heading">{{ site.title }}</h1>
-
+  <h2 class="page-heading">{{ site.description }}</h2>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -13,4 +13,5 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+  <h3 class="page-heading">Authors: {{ site.authors }}</h3>
 </div>
