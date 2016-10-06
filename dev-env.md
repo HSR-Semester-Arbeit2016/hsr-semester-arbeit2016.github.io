@@ -5,7 +5,7 @@ permalink: /dev-env/
 ---
 ## Endpoints
 
-**Github**
+### Github
 
 | Repo           | Link                                     |
 | -------------- | ---------------------------------------- |
@@ -13,14 +13,13 @@ permalink: /dev-env/
 | GitHub Web     | [https://github.com/HSR-Semester-Arbeit2016/hsr-semester-arbeit2016.github.io](https://github.com/HSR-Semester-Arbeit2016/hsr-semester-arbeit2016.github.io) |
 | Documentation  | [https://github.com/HSR-Semester-Arbeit2016/hsr-semester-arbeit-doc](https://github.com/HSR-Semester-Arbeit2016/hsr-semester-arbeit-doc) |
 
-
-**[Code Repositories]():**
+### Code Repositories
 
 | Repo | Link |
 | ---- | ---- |
 |      |      |
 
-**Links**
+### Links
 
 | Link                                     | What                                     |
 | ---------------------------------------- | ---------------------------------------- |
@@ -35,14 +34,19 @@ permalink: /dev-env/
 | [https://play.google.com/store/apps/details?id=com.google.vr.cardboard.apps.designlab](https://play.google.com/store/apps/details?id=com.google.vr.cardboard.apps.designlab) | Top Developer Cardboard Design Lab       |
 | [https://developers.google.com/tango](https://developers.google.com/tango) | Tango is a platform that uses computer vision to give devices the ability to understand their position relative to the world around them. |
 | [https://developers.google.com/tango/apis/unity/unity-simple-ar](https://developers.google.com/tango/apis/unity/unity-simple-ar) | Simple Augmented Reality Unity           |
-| [https://www.sitepoint.com/how-to-build-an-ar-android-app-with-vuforia-and-unity](https://www.sitepoint.com/how-to-build-an-ar-android-app-with-vuforia-and-unity) | Tutorial AR Unity & Vuforia              |
 | [https://library.vuforia.com/articles/Solution/Integrating-Cardboard-to-the-ARVR-Sample](https://library.vuforia.com/articles/Solution/Integrating-Cardboard-to-the-ARVR-Sample) | Integrating Cardboard to the AR/VR Sample |
-| [https://www.sitepoint.com/tag/unity](https://www.sitepoint.com/tag/unity) | Unity Tutorials                          |
-| [https://unity3d.com/learn/tutorials?_ga=1.153781247.696975795.1474375656](https://unity3d.com/learn/tutorials?_ga=1.153781247.696975795.1474375656) | Unity Tutorials 2                        |
 | [https://www.sitepoint.com/building-a-google-cardboard-vr-app-in-unity](https://www.sitepoint.com/building-a-google-cardboard-vr-app-in-unity) | Cardboard Unity VR App                   |
-| [https://library.vuforia.com/articles/Solution/Installing-the-Unity-Extension](https://library.vuforia.com/articles/Solution/Installing-the-Unity-Extension) | How install Vuforia in Unity             |
 | [https://www.packtpub.com/mapt/book/Game-Development/9781783280032/2/ch02lvl1sec17/Starting+a+Unity+project](https://www.packtpub.com/mapt/book/Game-Development/9781783280032/2/ch02lvl1sec17/Starting+a+Unity+project) | Starting a Unity project                 |
 | [https://library.vuforia.com/articles/Solution/Integrating-Cardboard-to-the-ARVR-Sample](https://library.vuforia.com/articles/Solution/Integrating-Cardboard-to-the-ARVR-Sample) | Integrating Cardboard to the AR/VR Sample |
 | [https://library.vuforia.com/articles/Training/ARCamera-prefab-in-Unity](https://library.vuforia.com/articles/Training/ARCamera-prefab-in-Unity) | ARCamera prefab in Unity                 |
-| [https://www.sitepoint.com/tag/unity/](https://www.sitepoint.com/tag/unity/) | Several Unity Tutorials                  |
-| [https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr](https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr) | User Interaction (Buttons) |
+
+### Tutorials
+
+| Link                                     | What                         |
+| ---------------------------------------- | ---------------------------- |
+| [https://www.sitepoint.com/tag/unity](https://www.sitepoint.com/tag/unity) | Unity Tutorials              |
+| [https://unity3d.com/learn/tutorials?_ga=1.153781247.696975795.1474375656](https://unity3d.com/learn/tutorials?_ga=1.153781247.696975795.1474375656) | Unity Tutorials 2            |
+| [https://www.sitepoint.com/tag/unity/](https://www.sitepoint.com/tag/unity/) | Several Unity Tutorials      |
+| [https://library.vuforia.com/articles/Solution/Installing-the-Unity-Extension](https://library.vuforia.com/articles/Solution/Installing-the-Unity-Extension) | How install Vuforia in Unity |
+| [https://www.sitepoint.com/how-to-build-an-ar-android-app-with-vuforia-and-unity](https://www.sitepoint.com/how-to-build-an-ar-android-app-with-vuforia-and-unity) | Tutorial AR Unity & Vuforia  |
+| [https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr](https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr) | User Interaction (Buttons)               |
