@@ -33,6 +33,7 @@ To be continued.
 
 ## Existing tools of ASN to visualize/simulate influences
 ### Influence Glasses 
+
 #### very drunk
 
 - extremely limited field of view & blurryness
@@ -41,10 +42,9 @@ To be continued.
 - very impactful on well-being
 
 #### drunk:
-
 - limited field of view & blurryness
-#### slightly intoxicated:
 
+#### slightly intoxicated:
 - limited field of view & blurryness
 
 ### Driving Under Influence-Simulations
