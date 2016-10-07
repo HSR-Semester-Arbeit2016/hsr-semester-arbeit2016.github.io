@@ -100,6 +100,7 @@ The following points were a part of that:
 - Advanced: external controller to configure the individual, negative influences would be great
 - Potential 'lags' due to lack of well-being during the use of Google Cardboard are not an issue since they can be seen as 'adding to the immersion'
 - Usage of image-effects & filters should not be excessive since the Cardboard-experience itself comes with its issues
+
 ## General information and topics
 
 - The new AR/VR technology is very likely to be a great thing in regards to appealing to teens and young adults that are ASNs primary target audience
