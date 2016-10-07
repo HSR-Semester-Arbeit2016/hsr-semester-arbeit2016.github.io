@@ -5,7 +5,6 @@ date: 2016-10-06
 categories: "general"
 author: "Roberto Cuervo, Konrad Höpli"
 ---
-
 ## Thursday, 10. October 2016, *Understanding Unity and Vuforia*
 
 My primary goal of this week aside from finishing the setup of our development-environment has been achieving an improved understanding of the tools we are using in this research project.
