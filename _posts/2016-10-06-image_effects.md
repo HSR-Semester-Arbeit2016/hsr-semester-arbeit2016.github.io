@@ -48,4 +48,4 @@ public class ExampleClass : MonoBehaviour {
 
 This function allows you to modify final image by processing it with shader based filters. The incoming image is `source` [render texture](https://docs.unity3d.com/Manual/class-RenderTexture.html). The result should end up in `destination` render texture. When there are multiple image filters attached to the camera, they process image sequentially, by passing first filter's destination as the source to the next filter. 
 
-We still have to find out which parameters must be modified in order to achieve the desired effects and configurations.
+We still have to find out which parameters in this function must be modified in order to achieve the desired effects and configurations.
