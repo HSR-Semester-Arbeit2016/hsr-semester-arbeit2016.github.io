@@ -32,7 +32,6 @@ To be continued.
 (TODO: short introduction about what they're doing)
 
 ## Existing tools of ASN to visualize/simulate influences
-
 ### Influence Glasses 
 #### very drunk: 
 - extremely limited field of view & blurryness
