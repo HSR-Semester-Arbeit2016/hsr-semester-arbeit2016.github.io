@@ -33,18 +33,22 @@ To be continued.
 
 ## Existing tools of ASN to visualize/simulate influences
 ### Influence Glasses 
-#### very drunk: 
+#### very drunk
+
 - extremely limited field of view & blurryness
 - duplicated images
 - different focus on individual eyes
 - very impactful on well-being
 
 #### drunk:
+
 - limited field of view & blurryness
 #### slightly intoxicated:
+
 - limited field of view & blurryness
 
 ### Driving Under Influence-Simulations
+
 - Two versions with a couple of differences available (French/German)
 - Played from within a kind of car-seat with regular&realistic car-controls with a TV in front
 - Small, separate key-pad used to control obstacles and influences:
