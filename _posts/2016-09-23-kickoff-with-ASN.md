@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project Kickoff"
+title: "Project Kickoff with ASN"
 date: 2016-09-23
 categories: "general"
 author: "Roberto Cuervo, Konrad Höpli"
@@ -100,15 +100,14 @@ The following points were a part of that:
 * The student research project will have an agile organisation to match the many open questions and goals -> iterative definition of work items and their estimations (potentionally with input from ASN on their importance/desirability)
 * Whether this project is eligible to be used as a bachelor thesis will be decided in the final stages or once the overall functionality requirements and possibilities have been worked out
 
-	
 
 
 
 
 
 
-			
+​			
 
 
-				
+​				
 
