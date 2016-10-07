@@ -7,5 +7,5 @@ author: "Roberto Cuervo, Konrad Höpli"
 ---
 ## Monday, 09. September 2016, *Project Kickoff*
 
-Today we had the project kickoff of our Semester Arbeit.
+Today we had the project kickoff of our student research project.
 To be continued.
