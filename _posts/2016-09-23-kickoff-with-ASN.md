@@ -70,13 +70,16 @@ To be continued.
     - actual break-time & distance
 
 ## Technical aspects (AR/VR, options therein, filter on running camera)
+
 #### Virtual Reality (VR)
 VR is a term used for an immersive simulation that takes the user into a created environment (either completely synthetic, using real world content or any mixture of the two).
 Examples: 360° videos, computer-generated VR
+
 #### Augumented Reality (AR)
 AR is used to describe applications that take real world content (typically via camera-feed) and add additional information or objects to it just like an overlay.
 Mixed Reality (MR) is another term used to describe the mixture of virtual and real world content, but it currently is not seeing as much attention as AR and in my opinion stands for the same.
 Examples: Plane identifier
+
 ## Research so far
 The goal of our student research project is to create an app, using any mixture of features belonging to the two technological terms explained above available, in order to create an experience to visualize the influences of alcohol.
 What we have looked at so far is the [Vuforia-SDK](http://vuforia.com/) that was recommended by Oliver Augenstein and provides a toolset that simplifies the creation of AR applications. There is a version for Xcode, Android Studio as well as Unity and decision to work with Unity did not take too long at all since that one provides some additional features, allows the development for multiple platforms and is a great opportunity for us to learn about one of the biggest Game Engines out there.
@@ -90,20 +93,19 @@ Since the exact effects to reproduce are not (yet) clearly identified, we asked 
 
 Based on our first impression of the topic and features we have discovered so far we tried to get a bit of feedback from ASN in order to get at least a little bit of a direction in a discussion. 
 The following points were a part of that:
-* Embedding/using the real world is desired (AR)
-* Implementing virtual objects for some kind of an obstacle (avoidance) course
-* Bad influence on personal well being probably can not be simulated well, but the behaviour of virtual objects can be changed accordingly
-* Interaction with virtual objects would be nice and could be used to implement input-delay
-* Advanced: external controller to configure the individual, negative influences would be great
-* Potential 'lags' due to lack of well-being during the use of Google Cardboard are not an issue since they can be seen as 'adding to the immersion'
-* Usage of image-effects & filters should not be excessive since the Cardboard-experience itself comes with its issues
-
+- Embedding/using the real world is desired (AR)
+- Implementing virtual objects for some kind of an obstacle (avoidance) course
+- Bad influence on personal well being probably can not be simulated well, but the behaviour of virtual objects can be changed accordingly
+- Interaction with virtual objects would be nice and could be used to implement input-delay
+- Advanced: external controller to configure the individual, negative influences would be great
+- Potential 'lags' due to lack of well-being during the use of Google Cardboard are not an issue since they can be seen as 'adding to the immersion'
+- Usage of image-effects & filters should not be excessive since the Cardboard-experience itself comes with its issues
 ## General information and topics
 
-* The new AR/VR technology is very likely to be a great thing in regards to appealing to teens and young adults that are ASNs primary target audience
-* There would be a budget available at ASN in case we would ever need to aquire something specifically for our project
-* The license of the finished app will be a shared license between ASN and us (including HSR)
-* The app shall be developed for android only even though the used tools would easily allow uf to build it for iOS
-* A release within the Android store is not planned or expected so far
-* The student research project will have an agile organisation to match the many open questions and goals -> iterative definition of work items and their estimations (potentionally with input from ASN on their importance/desirability)
-* Whether this project is eligible to be used as a bachelor thesis will be decided in the final stages or once the overall functionality requirements and possibilities have been worked out
+- The new AR/VR technology is very likely to be a great thing in regards to appealing to teens and young adults that are ASNs primary target audience
+- There would be a budget available at ASN in case we would ever need to aquire something specifically for our project
+- The license of the finished app will be a shared license between ASN and us (including HSR)
+- The app shall be developed for android only even though the used tools would easily allow uf to build it for iOS
+- A release within the Android store is not planned or expected so far
+- The student research project will have an agile organisation to match the many open questions and goals -> iterative definition of work items and their estimations (potentionally with input from ASN on their importance/desirability)
+- Whether this project is eligible to be used as a bachelor thesis will be decided in the final stages or once the overall functionality requirements and possibilities have been worked out
