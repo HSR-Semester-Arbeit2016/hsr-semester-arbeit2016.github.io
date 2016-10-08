@@ -53,5 +53,6 @@ permalink: /dev-env/
 | https://unity3d.com/learn/tutorials/topics/interface-essentials/scene-view?playlist=17090 | Unitiy Scene View                 |
 | https://unity3d.com/learn/tutorials/topics/interface-essentials/game-objects-and-components?playlist=17090 | Unity Game Objects and Components |
 | [https://www.sitepoint.com/how-to-build-an-ar-android-app-with-vuforia-and-unity](https://www.sitepoint.com/how-to-build-an-ar-android-app-with-vuforia-and-unity) | Tutorial AR Unity & Vuforia       |
-| https://library.vuforia.com/articles/Training/ARCamera-prefab-in-Unity | Vuforia AR prefac tutorial        |
+| [https://library.vuforia.com/articles/Training/ARCamera-prefab-in-Unity](https://library.vuforia.com/articles/Training/ARCamera-prefab-in-Unity) | Vuforia AR prefac tutorial        |
 | [https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr](https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr) | User Interaction (Buttons)        |
+
