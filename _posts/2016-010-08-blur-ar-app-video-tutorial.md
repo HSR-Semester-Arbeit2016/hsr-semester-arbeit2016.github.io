@@ -13,9 +13,10 @@ The first one is an augmented reality app which just creates a tunnel view effec
 
 In order to achieve this, you will need to install or download:
 
-* [Unity](https://unity3d.com/) 
-* [Android SDK & Tools](https://developer.android.com/studio/index.html)
-* [Vuforia 6](https://developer.vuforia.com/downloads/sdk)
+- [Unity](https://unity3d.com/) 
+
+- [Android SDK & Tools](https://developer.android.com/studio/index.html)
+- [Vuforia 6](https://developer.vuforia.com/downloads/sdk)
 
 You also need to log into [Vuforia Developer](https://developer.vuforia.com/) for downloading Vuforia 6 and get the necessary key to use the Vuforia AR Camera in your app. 
 
