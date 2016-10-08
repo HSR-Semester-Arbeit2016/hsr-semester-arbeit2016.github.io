@@ -8,7 +8,6 @@ author: "Roberto Cuervo, Konrad Höpli"
 ## Friday, 23. September 2016, *Project Kickoff with ASN*
 
 Today we had the project kickoff of our student research project together with the initiating company ASN.
-To be continued.
 
 ## Attendees:
 * Simone Reiser
@@ -31,7 +30,7 @@ To be continued.
 
 (TODO: short introduction about what they're doing)
 
-## Existing tools of ASN to visualize/simulate influences
+## Existing tools of ASN to visualize/simulate alcohol influences
 
 ### Influence Glasses 
 
