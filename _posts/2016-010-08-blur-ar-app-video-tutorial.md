@@ -14,7 +14,6 @@ The first one is an augmented reality app which just creates a tunnel view effec
 In order to achieve this, you will need to install or download:
 
 - [Unity](https://unity3d.com/) 
-
 - [Android SDK & Tools](https://developer.android.com/studio/index.html)
 - [Vuforia 6](https://developer.vuforia.com/downloads/sdk)
 
@@ -22,5 +21,5 @@ You also need to log into [Vuforia Developer](https://developer.vuforia.com/) fo
 
 Note: the video quality is much better if you watch it direct in [youtube](https://www.youtube.com/watch?v=ynpqrB3sgWc)
 
-
-{% youtube ynpqrB3sgWc 900 320 %}
+{% include youtubePlayer.html id="ynpqrB3sgWc" %}
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=ynpqrB3sgWc" frameborder="0" allowfullscreen></iframe>
