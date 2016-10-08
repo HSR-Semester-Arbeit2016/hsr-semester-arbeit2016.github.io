@@ -17,7 +17,6 @@ In order to achieve this, you will need to install or download:
 * [Android SDK & Tools](https://developer.android.com/studio/index.html)
 * [Vuforia 6](https://developer.vuforia.com/downloads/sdk)
 
-
 You also need to log into [Vuforia Developer](https://developer.vuforia.com/) for downloading Vuforia 6 and get the necessary key to use the Vuforia AR Camera in your app. 
 
 Note: the video quality is much better if you watch it direct in [youtube](https://www.youtube.com/watch?v=ynpqrB3sgWc)
