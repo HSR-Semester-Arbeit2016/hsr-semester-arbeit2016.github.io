@@ -91,9 +91,10 @@ As already mentioned the goal of this research project is to create an app that 
 However,  ASN does not have any concrete requirements or ideas about for the final product - since the AR/VR-area is just as new for them as it is for us. So first and foremost this project is going to be about researching the options available and estimating the time they take to implement as well as discussing those with Oliver Augenstein and/or ASN as we go on with the project.
 Since the exact effects to reproduce are not (yet) clearly identified, we asked for somewhat scientific information about what effects the influence of alcohol actually has on our vision as well as physical abilities - one could say that we lack personal experience on this regard...
 
-- Based on our first impression of the topic and features we have discovered so far we tried to get a bit of feedback from ASN in order to get at least a little bit of a direction in a discussion. 
+Based on our first impression of the topic and features we have discovered so far we tried to get a bit of feedback from ASN in order to get at least a little bit of a direction in a discussion. 
 
-- The following points were a part of that:
+The following points were a part of that:
+
 - Embedding/using the real world is desired (AR)
 - Implementing virtual objects for some kind of an obstacle (avoidance) course
 - Bad influence on personal well being probably can not be simulated well, but the behaviour of virtual objects can be changed accordingly
