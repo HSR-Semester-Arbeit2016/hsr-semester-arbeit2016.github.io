@@ -69,7 +69,7 @@ ASN wants to introduce a modern technology like Augmented Reality in order to be
     - expected break-time & distance
     - actual break-time & distance
 
-Screeshots of the available Simulations:
+Screenshots of the available Simulations:
 
 ![3](/media/3.JPG)
 
