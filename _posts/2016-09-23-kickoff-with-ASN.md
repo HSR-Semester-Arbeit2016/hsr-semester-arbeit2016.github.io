@@ -10,11 +10,11 @@ author: "Roberto Cuervo, Konrad Höpli"
 Today we had the project kickoff of our student research project together with the initiating company ASN.
 
 ## Attendees:
-* Simone Reiser
-* Dominic Studer
-* Oliver Augenstein
-* Roberto Cuervo-Alvarez
-* Konrad Höpli
+* Simone Reiser (ASN)
+* Dominic Studer (ASN)
+* Oliver Augenstein (HSR)
+* Roberto Cuervo-Alvarez (HSR)
+* Konrad Höpli (HSR)
 
 ## Covered topics in order:
 * Introduction
