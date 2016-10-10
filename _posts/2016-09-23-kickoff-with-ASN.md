@@ -26,9 +26,10 @@ Today we had the project kickoff of our student research project together with t
 * Licenses of used development tools
 * Organisation and coordination
 
-## Introduction [Fachstelle: Am Steuer Nie](https://www.fachstelle-asn.ch)
+## Introduction [Fachstelle: Am Steuer Nie (ASN)](https://www.fachstelle-asn.ch)
 
-(TODO: short introduction about what they're doing)
+The non-profit organisation Fachstelle Am Steuer Nie (ASN) pursues the reduction of the traffic accidents caused by alcohol, drugs or medicaments consumption. The prevention bases on different projects where the user experience is central.
+ASN wants to introduce a modern technology like Augmented Reality in order to be more attractive for young people.
 
 ## Existing tools of ASN to visualize/simulate alcohol influences
 
