@@ -15,9 +15,10 @@ permalink: /dev-env/
 
 ### Code Repositories
 
-| Repo | Link |
-| ---- | ---- |
-|      |      |
+| Repo                                     | Link                                     |
+| ---------------------------------------- | ---------------------------------------- |
+| [https://github.com/HSR-Semester-Arbeit2016/TiltShiftArApp](https://github.com/HSR-Semester-Arbeit2016/TiltShiftArApp) | First AR prototype with tilt shift filter |
+| [https://github.com/HSR-Semester-Arbeit2016/VisualEffectSelector](https://github.com/HSR-Semester-Arbeit2016/VisualEffectSelector) | Visual Effect Selector: Unity and Vuforia Project showing visual effects |
 
 ### Links
 
@@ -55,5 +56,5 @@ permalink: /dev-env/
 | [https://www.sitepoint.com/how-to-build-an-ar-android-app-with-vuforia-and-unity](https://www.sitepoint.com/how-to-build-an-ar-android-app-with-vuforia-and-unity) | Tutorial AR Unity & Vuforia       |
 | [https://library.vuforia.com/articles/Training/ARCamera-prefab-in-Unity](https://library.vuforia.com/articles/Training/ARCamera-prefab-in-Unity) | Vuforia AR prefac tutorial        |
 | [https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr](https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr) | User Interaction (Buttons)        |
-|[https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/creating-a-scene-menu](https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/creating-a-scene-menu)  |Scene Selection Menu Tutorial  |
+| [https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/creating-a-scene-menu](https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/creating-a-scene-menu) | Scene Selection Menu Tutorial     |
 
