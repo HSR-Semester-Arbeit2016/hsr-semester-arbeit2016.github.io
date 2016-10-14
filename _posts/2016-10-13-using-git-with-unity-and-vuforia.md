@@ -2,9 +2,9 @@
 layout: post
 title: "Using Git with Unity and Vuforia"
 date: 2016-10-13
-categories: general
+categories: 
 author: "Roberto Cuervo, Konrad Höpli"
----
+--- 
 ## *Using Git with Unity and Vuforia*
 When we created our first Unity-project on our GitHub-repository, we had the option to select a .gitignore-file for Unity-projects and thought that was most definitely all that was important in order to correctly use version-control.
 
