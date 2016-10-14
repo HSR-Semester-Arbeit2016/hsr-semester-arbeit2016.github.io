@@ -1,10 +1,11 @@
 _site/
 .sass-cache/
 .jekyll-metadata
-.sln
-.csproj
-.csproj.user
+*.sln
+*.csproj
+*.csproj.user
 bin/
 obj/
 Properties/
 packages/
+.vs/
