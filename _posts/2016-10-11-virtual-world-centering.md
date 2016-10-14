@@ -32,6 +32,6 @@ When toying around with the individual centers in Unity I quickly had to discove
 
 ### Conclusion
 All things considered I suspect us to use a combination of the options listed above - so the camera will probably end up being the center, but at least one image target will be added to add static content in relation to the real world surrounding the user.
-In order to correctly achieve that we will be using the 'Extended Tracking' feature of the Vuforia-SDK, since otherwise the static content bound to a specific image target will only be displayed as long as the ImageTarget remains within the camera of the user and that is definitely not something we can tolerate upon our attempt to creat a immersive parcour-experience.
+In order to correctly achieve that we will be using the ['Extended Tracking' feature of the Vuforia-SDK](https://library.vuforia.com//articles/Training/Extended-Tracking), since otherwise the static content bound to a specific image target will only be displayed as long as the ImageTarget remains within the camera of the user and that is definitely not something we can tolerate upon our attempt to create an immersive parcour-experience.
 
 
