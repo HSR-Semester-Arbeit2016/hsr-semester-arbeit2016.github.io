@@ -37,15 +37,14 @@ Once know the effects, we searched for the available possibilities offered by Un
 | Alcohol Effect             | Unity Image Effect                       | AR App Example                           |
 | -------------------------- | ---------------------------------------- | ---------------------------------------- |
 | **Tunnel View**            | [Tilt Shift](https://docs.unity3d.com/Manual/script-TiltShiftHdr.html) or [Fish Eye](https://docs.unity3d.com/Manual/script-Fisheye.html)  <img src="https://docs.unity3d.com/uploads/ImageEffects/TiltShiftIris.png" alt="Tilt shift image effect in unity" style="width: 350px;"/> | <img src="/media/tilt_shift.png" alt="Tunnel view in AR app" style="width: 2000px;"/> |
-| **Bright-/Dark-Blindness** | The delay in the image processing when appling any image effect creates automatically this effect. We use too the [Camera Motion Blur](https://docs.unity3d.com/Manual/script-CameraMotionBlur.html) <img src="https://docs.unity3d.com/uploads/Main/MbReconstructionBlurExample.png" style="width:400px;"/> |                                          |
-| **Red Light weakness**     | [Color Correction Curves](https://docs.unity3d.com/Manual/script-ColorCorrectionCurves.html)  <img src="https://docs.unity3d.com/uploads/Main/saturationAndBlueCurve.png" style="width:400px;"/> |                                          |
-| **Blurred view**           | [Blur Effect and Noise](https://docs.unity3d.com/Manual/script-BlurOptimized.html) <img src="https://docs.unity3d.com/uploads/Main/FxBlurOptimizedExample.png" alt="Unity Blur Image Effect" style="width:400px;"/> |                                          |
-| **Double View**            | This is a combination of different image effects and configurations in Unity and there is no preview |                                          |
+| **Bright-/Dark-Blindness** | The delay in the image processing when appling any image effect creates automatically this effect. We use too the [Camera Motion Blur](https://docs.unity3d.com/Manual/script-CameraMotionBlur.html) <img src="https://docs.unity3d.com/uploads/Main/MbReconstructionBlurExample.png" style="width:400px;"/> | <img src="/media/blur_motion.png" alt="Blur motion in AR app" style="width:600px;"/> Sorry, getting this screenshot is difficult |
+| **Red Light weakness**     | [Color Correction Curves](https://docs.unity3d.com/Manual/script-ColorCorrectionCurves.html)  <img src="https://docs.unity3d.com/uploads/Main/saturationAndBlueCurve.png" style="width:400px;"/> | No preview yet, coming soon              |
+| **Blurred view**           | [Blur Effect and Noise](https://docs.unity3d.com/Manual/script-BlurOptimized.html) <img src="https://docs.unity3d.com/uploads/Main/FxBlurOptimizedExample.png" alt="Unity Blur Image Effect" style="width:400px;"/> | <img src="/media/blur_scene.png" alt="Blur view in AR app" style="width:600px;"/> |
+| **Double View**            | This is a combination of different image effects and configurations in Unity and there is no preview | Coming soon                              |
 | **Inconstancy**            | Mix of all above with random parameters  | No preview                               |
 
 ## Virtual Objects
 
-Another goal of the AR app ist to create virtual objects which the user maybe will have to avoid. The first prototype we built are just a pair of cubes and a sphere. This objects are truly virtual objects, you can go through them with your hand ,they don't exist in the reality.
+Another goal of the AR app ist to create virtual objects which the user maybe will have to avoid. The first prototype we built contains just a pair of cubes and a sphere. Attention: this objects are truly virtual objects, you can go through them with your hand , they don't exist in the reality.
 
 <img src="/media/vr_objects.png" alt="First virtual objects" style="width:500 px;"/>
-
