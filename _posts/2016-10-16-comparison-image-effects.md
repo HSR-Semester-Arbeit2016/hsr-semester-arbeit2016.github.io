@@ -32,14 +32,20 @@ Simone sent us a Mail on 23rd. September 2016 with information about the alcohol
 
 ##  Comparison
 
-Once know the effects, we searched for the available possibilities offered by Unity and Vuforia. As already mentioned in the [Image Effects]({% post_url 2016-10-06-image_effects%}) Post, Unity has the [Image Effects reference](https://docs.unity3d.com/Manual/comp-ImageEffects.html)  or posprocessing effects. Below is a table with the alcohol effect and the corresponding Image Effect used in Unity.
+Once know the effects, we searched for the available possibilities offered by Unity and Vuforia. As already mentioned in the [Image Effects]({% post_url 2016-10-06-image_effects%}) Post, Unity has the [Image Effects reference](https://docs.unity3d.com/Manual/comp-ImageEffects.html)  or posprocessing effects. Below is a table with the alcohol effect, the corresponding Image Effect used in Unity und the obtained effect in the AR app.
 
-| Alcohol Effect             | Unity Image Effect                       | AR App Example |
-| -------------------------- | ---------------------------------------- | -------------- |
-| **Tunnel View              | [Tilt Shift](https://docs.unity3d.com/Manual/script-TiltShiftHdr.html) or [Fish Eye](https://docs.unity3d.com/Manual/script-Fisheye.html) <img src="https://docs.unity3d.com/uploads/ImageEffects/TiltShiftIris.png" style="width: 500px;"/> |                |
-| **Bright-/Dark-Blindness** | The delay in the image processing when appling any image effect creates automatically this effect. We use too the [Camera Motion Blur](https://docs.unity3d.com/Manual/script-CameraMotionBlur.html) <img src="https://docs.unity3d.com/uploads/Main/MbReconstructionBlurExample.png" style="width:500px;"/> |                |
-| **Red Light weakness**     | [Color Correction Curves](https://docs.unity3d.com/Manual/script-ColorCorrectionCurves.html)  <img src="https://docs.unity3d.com/uploads/Main/saturationAndBlueCurve.png" style="width:500px;"/> |                |
-| **Blurred view**           | [Blur Effect and Noise](https://docs.unity3d.com/Manual/script-BlurOptimized.html) |                |
-| **Double View**            | TODO Complete                            |                |
-| **Inconstancy**            | Mix of all above with random parameters  |                |
+| Alcohol Effect             | Unity Image Effect                       | AR App Example                           |
+| -------------------------- | ---------------------------------------- | ---------------------------------------- |
+| **Tunnel View**            | [Tilt Shift](https://docs.unity3d.com/Manual/script-TiltShiftHdr.html) or [Fish Eye](https://docs.unity3d.com/Manual/script-Fisheye.html)  <img src="https://docs.unity3d.com/uploads/ImageEffects/TiltShiftIris.png" alt="Tilt shift image effect in unity" style="width: 350px;"/> | <img src="/media/tilt_shift.png" alt="Tunnel view in AR app" style="width: 2000px;"/> |
+| **Bright-/Dark-Blindness** | The delay in the image processing when appling any image effect creates automatically this effect. We use too the [Camera Motion Blur](https://docs.unity3d.com/Manual/script-CameraMotionBlur.html) <img src="https://docs.unity3d.com/uploads/Main/MbReconstructionBlurExample.png" style="width:400px;"/> |                                          |
+| **Red Light weakness**     | [Color Correction Curves](https://docs.unity3d.com/Manual/script-ColorCorrectionCurves.html)  <img src="https://docs.unity3d.com/uploads/Main/saturationAndBlueCurve.png" style="width:400px;"/> |                                          |
+| **Blurred view**           | [Blur Effect and Noise](https://docs.unity3d.com/Manual/script-BlurOptimized.html) <img src="https://docs.unity3d.com/uploads/Main/FxBlurOptimizedExample.png" alt="Unity Blur Image Effect" style="width:400px;"/> |                                          |
+| **Double View**            | This is a combination of different image effects and configurations in Unity and there is no preview |                                          |
+| **Inconstancy**            | Mix of all above with random parameters  | No preview                               |
+
+## Virtual Objects
+
+Another goal of the AR app ist to create virtual objects which the user maybe will have to avoid. The first prototype we built are just a pair of cubes and a sphere. This objects are truly virtual objects, you can go through them with your hand ,they don't exist in the reality.
+
+<img src="/media/vr_objects.png" alt="First virtual objects" style="width:500 px;"/>
 
