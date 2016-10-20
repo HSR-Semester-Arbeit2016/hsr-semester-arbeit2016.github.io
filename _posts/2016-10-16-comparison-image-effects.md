@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Comparison between desired image effects and available image effects"
+date: 2016-10-16
+categories:
+author: "Roberto Cuervo, Konrad Höpli"
+---
+# Comparison between desired image effects and available image effects
+
+One of our goals is to emulate the alcohol effects on the vision in the AR App. In order to achieve this, we asked Simone Reiser (ASN) for more details in order to categorize or describe this effects and later emulate them. 
+
+## Information about Alcohol Effects on Vision Capabilities
+
+Simone sent us a Mail on 23rd. September 2016 with information about the alcohol effects on vision capabilities. 
+
+- **Tunnel View**: the field of vision encloses usually 180 degrees. But in fact you can see really sharp only in a small field of view. Even though the periferical vision is very important, because so you can react to warning colors or movements. Under alcohol influence this 180 degrees reduce steadily , being this of course dangerous in overtake actions, pedestrians, etc.
+
+
+* **Bright-/Dark-Blindness**: Our pupils are small or big depending on the light circumstances. The time needed by the pupils adapt to light changes is longer under alcohol influence.  This mean, that you can be blind for 3 seconds or more. Time enough to crash.
+
+* **Red light weakness**: You are not able to differentiate red shades, what is trouble when you must pay attention to brake lights.
+
+* **Blurred view**: The eyes can not display fast and sharp the context. 
+
+* **Double view**: each eye takes an image, and both images combined build a 3D image. Because of this, under alcohol influence you are able see double or triple things. 
+
+* **Inconstancy**: it is important to know that these restrictions are not present in the same way. It can happen that, if you  are sitting, all is more or less sharp. But, as soon as you raise and move, your brain must process the inputs faster. Then the alcohol influence manifest. 
+
+  Apart from visual restrictions, there are more like balance problems, delay in the reactions and motor functions, alll of them playing an important function in traffic.
+
+
+
+##  Comparison
+
+Once know the effects, we searched for the available possibilities offered by Unity and Vuforia. As already mentioned in the [Image Effects]({% post_url 2016-10-06-image_effects%}) Post, Unity has the [Image Effects reference](https://docs.unity3d.com/Manual/comp-ImageEffects.html)  or posprocessing effects. Below is a table with the alcohol effect and the corresponding Image Effect used in Unity.
+
+| Alcohol Effect             | Unity Image Effect                       | AR App Example |
+| -------------------------- | ---------------------------------------- | -------------- |
+| **Tunnel View              | [Tilt Shift](https://docs.unity3d.com/Manual/script-TiltShiftHdr.html) or [Fish Eye](https://docs.unity3d.com/Manual/script-Fisheye.html) <img src="https://docs.unity3d.com/uploads/ImageEffects/TiltShiftIris.png" style="width: 500px;"/> |                |
+| **Bright-/Dark-Blindness** | The delay in the image processing when appling any image effect creates automatically this effect. We use too the [Camera Motion Blur](https://docs.unity3d.com/Manual/script-CameraMotionBlur.html) <img src="https://docs.unity3d.com/uploads/Main/MbReconstructionBlurExample.png" style="width:500px;"/> |                |
+| **Red Light weakness**     | [Color Correction Curves](https://docs.unity3d.com/Manual/script-ColorCorrectionCurves.html)  <img src="https://docs.unity3d.com/uploads/Main/saturationAndBlueCurve.png" style="width:500px;"/> |                |
+| **Blurred view**           | [Blur Effect and Noise](https://docs.unity3d.com/Manual/script-BlurOptimized.html) |                |
+| **Double View**            | TODO Complete                            |                |
+| **Inconstancy**            | Mix of all above with random parameters  |                |
+
