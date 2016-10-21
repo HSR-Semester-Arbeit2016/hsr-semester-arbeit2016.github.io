@@ -5,13 +5,13 @@ Student Research Project Thesis - HSR 2016 Web Site:  https://hsr-semester-arbei
 In order to modify or see this web locally, just:
 ```
 git clone https://github.com/HSR-Semester-Arbeit2016/hsr-semester-arbeit2016.github.io.git
+cd /hsr-semester-arbeit2016.github.io
 ```
 You will need [Jekyll](https://jekyllrb.com/).
 
- Run in shell:
+ Run in shell at  ```/hsr-semester-arbeit2016.github.io```:
 
 ```
-roberto at RobertooMacBook in ~/hsr-semester-arbeit2016.github.io on master*
 $ jekyll serve
 Configuration file: /hsr-semester-arbeit2016.github.io/_config.yml
             Source: /hsr-semester-arbeit2016.github.io
@@ -25,4 +25,5 @@ Configuration file: /hsr-semester-arbeit2016.github.io/_config.yml
   Server running... press ctrl-c to stop.
 ```
 
-You will be able to see the web at ```http://127.0.0.1:4000/```
+You will be able to see the web at [http://127.0.0.1:4000](http://127.0.0.1:4000/```)
+
