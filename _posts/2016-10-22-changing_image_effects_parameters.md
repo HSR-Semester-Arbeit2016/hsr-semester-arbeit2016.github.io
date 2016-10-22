@@ -7,17 +7,17 @@ author: "Roberto Cuervo, Konrad Höpli"
 ---
 # Static AR app
 
-Until now our AR app was static, the use could not interact with it too much.  From the main menu you just could choose between some scenes, each one of them with one image effect.
+Until now our AR app was static, the user could not interact with it too much.  From the main menu you just could choose between some scenes, each one of them with one image effect.
 
 <img src="/media/ar_app_main_menu.png" alt="Main menu in der AR app" style="width:500px;"/>
 
 You can see the effects in our post [Image Effects Comparison]({% post_url 2016-10-16-comparison-image-effects%}).  
 
-Of course it's desirable a bit more interaction betwenn app and user. At least the user should be able to choose the level of some effects.
+Of course it's desirable a bit more interaction between app and user. At least the user should be able to choose the level of some effects.
 
 # Slider
 
-For the firt try we decided to use a simple slider in order to select the "blureness" level in the Blur scene, or the scene which uses the Blur Image Effect.
+For the first try we decided to use a simple slider in order to select the "blureness" level in the Blur scene, or the scene which shows the Blur Image Effect.
 
 First we added the Slider object to the canvas of the Blur scene. We configured it to look more or less like:
 
