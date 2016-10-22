@@ -58,7 +58,9 @@ Another goal of the AR app ist to create virtual objects which the user maybe wi
 For a better vision of the AR app screenschots, once more them but a bit bigger:
 
 **Sober (without effects)**
+
 ![Sober](/media/sober.png)
+
 **Tunnel View**
 
 ![Tunnel View](/media/tilt_shift.png)
