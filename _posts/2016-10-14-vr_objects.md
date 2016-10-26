@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "Virtual objects and interaction in AR"
 date: 2016-10-14
 categories: 
-author: "Roberto Cuervo, Konrad H�pli"
+author: "Roberto Cuervo, Konrad Höpli"
 ---
 ## *Virtual objects and interaction in AR*
 After acquiring a better understanding of Unity during the last couple of weeks, I tried to apply some of that knowledge in a little excursion that could be of use for later stages of our project.
