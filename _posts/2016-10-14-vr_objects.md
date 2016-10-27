@@ -6,8 +6,6 @@ categories:
 author: "Roberto Cuervo, Konrad Höpli"
 ---
 
-[TOC]
-
 # Virtual objects and interaction in AR
 
 After acquiring a better understanding of Unity during the last couple of weeks, I tried to apply some of that knowledge in a little excursion that could be of use for later stages of our project.
@@ -22,7 +20,7 @@ I used some of the simplest 3D objects (a sphere and a cube) available by defaul
 The cube serves as the static platform and is set not to be affected by gravity, so it will remain right on the image target at all times.
 The sphere is set to not ignore the gravity and I added a tiny physics component named 'bouncy' to, well, make it bounce off the cube-platform placed directly below.
 
-Fortunately Unity also provides default colliders with these objects so do not have to implement any of those ourselves in order to play actually around with the objects or let them interact with each other.
+Fortunately Unity also provides default colliders with these objects so do not have to implement any of those ourselves in order to play actually around with the objects or let them interact with each other.	
 
 ## User interaction
 
