@@ -4,11 +4,8 @@ title: "Delay Effect"
 date: 2016-10-28
 categories:
 author: "Roberto Cuervo, Konrad Höpli"
-
 ---
-
 # Delay Effect
-
 One image effect we did not treat properly untill now is the delay effect. Although we already have a delay effect caused by the time needed to process the video, this is an uncontrolled delay. 
 
 Prof. Augenstein insisted that we should search a way in order to implement a custom delay, which should be parametrized and controlled.
@@ -99,7 +96,7 @@ using System.Collections.Generic;
 using System.Threading;
 
 public class Delay : MonoBehaviour {
-    private Queue<RenderTexture> myQ;
+   	private Queue<RenderTexture> myQ;
 	private int delayQueueCount = 80;
 	public int DelayQueueCount {
 		get { return delayQueueCount; }
