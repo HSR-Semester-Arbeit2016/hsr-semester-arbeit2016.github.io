@@ -61,7 +61,7 @@ public class BlurViewModel : MonoBehaviour {
 }
 ````
 
-In order to be able to set the "blureness" level on runtime, the actions from the slider have somehow to be reflected in the ```BlurViewModel``` class. Hier Unity helps. The Slider Object has a ```OnValueChanged(single)``` method, which is called when the user "slides" the slider. The method is provided with a float parameter ```single``` containing the value of the slider.
+In order to be able to set the "blureness" level on runtime, the actions from the slider have somehow to be reflected in the ```BlurViewModel``` class. Here Unity helps. The Slider Object has a ```OnValueChanged(single)``` method, which is called when the user "slides" the slider. The method is provided with a float parameter ```single``` containing the value of the slider.
 
 In Unity you can link the call of ```OnValueChanged(single)``` with our ```BlurViewModel``` class, so that when the ```OnValueChanged(single)``` is called, this method calls the ```setBlurSize(float newValue)``` method of the ```BlurViewModel``` class.
 
@@ -73,4 +73,4 @@ It's better if you see it:
 
 
 
-Later we will add this functionality to the another scenes, maybe with another UI components (radio buttons, checkboxes, etc), but for the first try it's not so bad.
+Later we will add this functionality to the other scenes, maybe with another UI components (radio buttons, checkboxes, etc), but for the first try it's not so bad.

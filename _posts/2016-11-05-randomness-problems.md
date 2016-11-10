@@ -18,7 +18,7 @@ In order to achieve this, we need two things:
 
 C Sharp offers a [Random Class](https://msdn.microsoft.com/en-us/library/system.random(v=vs.110).aspx), able to produce a sequence of numbers that meet statistical requirements for randomness.
 
-As all the parameters needed by the Image Effects (Blur, Tunnel Blick) methods are ```ìntegers``` within a certain range, we just need a method generating them. Like:
+As all the parameters needed by the Image Effects (Blur, Tunnel Vision) methods are ```ìntegers``` within a certain range, we just need a method generating them. Like:
 
 ````c#
 private int GenerateRandomNumber(int from, int to) {
@@ -99,7 +99,7 @@ The problem we found out is that the Elapsed event (the ``OnTimedEvent``call) is
 
 ### 2. Task Parallel Libray not available in Unity
 
-In order to solve this problem, we tried to execute asynchronously the ``OnTimedEvent`` call by using the C Sharp Task Parallel Library.
+In order to solve this problem, we tried to execute the ``OnTimedEvent`` call asynchronously by using the C# Task Parallel Library.
 
 ````c#
 using System.Threading.Tasks;
@@ -115,7 +115,11 @@ private static Task HandleTimer()
 	}
 ````
 
-But here we discovered that unity does not support still the ```System.Threading.Tasks``` library form C Sharp, this code does not compile even.
+But here we discovered that Unity does not support the ```System.Threading.Tasks``` library form C Sharp, this code does not compile even.
+The reason for that most likely is, that Unity uses an own compiler for C# and therewith only a subset of the features and libraries available in C#.NET:
+
+The following quote can be found on [the respective page in the Unity-manual](https://docs.unity3d.com/Manual/VisualStudioIntegration.html):
+> "Visual Studio’s C# compiler has some more features than Unity’s C# compiler currently has. This means that some code (especially newer c# features) will not give an error in Visual Studio but will give an error in Unity." > 
 
 We are obliged to find another solution in order to achieve the **Inconstancy** effect.
 
