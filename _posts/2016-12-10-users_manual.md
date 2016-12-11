@@ -87,7 +87,7 @@ If you want to delete a configuration, **double-click** on it in the list and th
 
 | Trying to delete a default configuration | Error Message                            |
 | ---------------------------------------- | ---------------------------------------- |
-| <img src="/media/delete_scene.png" alt="Main Scene" style="width: 2000px;"/> | <img src="/media/delete_scene.png" alt="Main Scene" style="width: 2000px;"/> |
+| <img src="/media/delete_scene.png" alt="Main Scene" style="width: 2000px;"/> | <img src="/media/delete_scene_exception.png" alt="Main Scene" style="width: 2000px;"/> |
 
 ### Activating the Randomization Effect
 
