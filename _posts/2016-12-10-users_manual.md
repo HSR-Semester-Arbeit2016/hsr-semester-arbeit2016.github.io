@@ -10,7 +10,6 @@ In this manual we explain how to install the application into your androif devic
 
 ## Installation
 ### APK Files
-
 An APK file is the file format used for installing software on the Android operating system. This is the file used to install the Simulating Substances application.
 
 ###  Previous Steps
@@ -38,7 +37,7 @@ After starting the application, the Main scene is loaded. Select a default confi
 
 | Main Scene                               | Simulating Scene                         |
 | ---------------------------------------- | ---------------------------------------- |
-| <img src="/media/main_scene2.png" alt="Main Scene" style="width: 2000px;"/> | <img src="/media/simulating_scene.png" alt="Simulating Scene" style="width: 2000px;"/> |
+| <img src="/media/main_scene2.png" alt="Main Scene" style="width: 2000px;"/> | <img src="/media/simulating_scene.png" alt="Simulating Scene" style="width: 1000px;"/> |
 
 ### Create a custom configuration
 
