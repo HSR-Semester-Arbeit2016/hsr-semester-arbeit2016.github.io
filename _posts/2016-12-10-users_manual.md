@@ -10,22 +10,27 @@ In this manual we explain how to install the application into your androif devic
 
 ## Installation
 ### APK Files
+
 An APK file is the file format used for installing software on the Android operating system. This is the file used to install the Simulating Substances application.
 
 ###  Previous Steps
 #### Activate Developer mode
+
 As there are different android devices, it’s recommended to search in Internet how to activate this service on your device.
 Generally you must navigate in your phone to the “Build number” portion of the settings and tap on the section 7 times. 
 After two taps, a small pop up notification should appear saying "you are now X steps away from being a developer" with a number that counts down with every additional tap. After the 7th tap, the Developer options will be unlocked and available.
 
 ### Allow third-part apps
+
 Before you can install the application on your phone you will need to make sure that third-party apps are allowed on your device. 
 Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store. Again maybe you will have to search in Internet how to do this in your device.
 ### Installation
+
 After obtaining the SimulatingSubstances.apk file, you just have to find it on your phone, tap it, and then hit Install. And you're done.
 
 ## User's Manual
 ### Graphical User Interface Overview
+
 The image below provides a better understanding of the navigation in the Simulating Substances application. The entry point to the application is the Main scene:
 
 ![img](/media/SimulatingSubstancesMockup.png)
