@@ -32,6 +32,7 @@ Go to Menu > Settings > Security > and check Unknown Sources to allow your phone
 After obtaining the SimulatingSubstances.apk file, you just have to find it on your phone, tap it, and then hit Install. And you're done.
 
 ## User's Manual
+
 ### Graphical User Interface Overview
 
 The image below provides a better understanding of the navigation in the Simulating Substances application. The entry point to the application is the Main scene:
